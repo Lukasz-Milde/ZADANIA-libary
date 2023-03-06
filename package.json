@@ -1,0 +1,27 @@
+import fs from "fs";
+
+{
+	"name": "libary",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Lukasz-Milde/ZADANIA-libary.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Lukasz-Milde/ZADANIA-libary/issues"
+	},
+	"homepage": "https://github.com/Lukasz-Milde/ZADANIA-libary#readme",
+	"devDependencies": {
+		"typescript": "^4.9.5"
+	}
+}

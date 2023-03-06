@@ -16,7 +16,7 @@ class Book {
   title: string;
   author: string;
   uuid: number;
-  randomPic: NIE WIEM;
+  randomPic: string;
   description: string;
 
   constructor(title: string; author: string; uuid: number; randomPic: NIE WIEM; description: string;) {
