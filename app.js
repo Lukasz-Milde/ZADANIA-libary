@@ -19,7 +19,7 @@ class Book {
   randomPic: string;
   description: string;
 
-  constructor(title: string; author: string; uuid: number; randomPic: NIE WIEM; description: string;) {
+  constructor(title: string; author: string; uuid: number; randomPic: string; description: string;) {
     this.title = title;
     this.author = author;
     this.uuid = uuid;
